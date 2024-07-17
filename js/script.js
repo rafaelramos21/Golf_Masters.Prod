@@ -18,3 +18,4 @@ function proximagem(){
 
     document.getElementById("radio"+counter).checked = true;
 }
+//navigation auto
